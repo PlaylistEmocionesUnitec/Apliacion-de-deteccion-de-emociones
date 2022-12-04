@@ -1,4 +1,8 @@
-	/appveyor/build/:user/:repo
+[![No Country for Geeks](https://img.shields.io/badge/Licencia-UNITEC%20-green.svg)](http://www.nocountryforgeeks.com/author/gallardo)
+[![No Country for Geeks](https://img.shields.io/badge/Version-v1.0.0%20-blue.svg)](http://www.nocountryforgeeks.com/author/gallardo)
+[![No Country for Geeks](https://img.shields.io/badge/Library-OpenCV%20-yellow.svg)](http://www.nocountryforgeeks.com/author/gallardo)
+[![No Country for Geeks](https://img.shields.io/badge/Library-Mediapipe%20-yellow.svg)](http://www.nocountryforgeeks.com/author/gallardo)
+[![No Country for Geeks](https://img.shields.io/badge/Library-Pyttsx3%20-yellow.svg)](http://www.nocountryforgeeks.com/author/gallardo)
 <h1>PROYECTO DE EMOTION</h1>
 
 <div style="text-align:center"><img src ="https://user-images.githubusercontent.com/114814184/205477553-289d453f-ffcb-450f-a301-84827d8cc5d6.png" /></div>
